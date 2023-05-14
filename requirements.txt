@@ -1,0 +1,5 @@
+py32api
+keyboard
+tkinter
+threading
+win32gui
